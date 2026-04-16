@@ -87,3 +87,10 @@ The frontend will be available at: **http://localhost:5173**
 - 🗺️ **Map Visualization** — earthquake locations displayed on an interactive map
 - 🗑️ **Record Deletion** — ability to delete a specific earthquake record
 - 🎨 **Improved UI** — responsive layout built with Bootstrap
+
+## Screenshots
+
+![](screenshots/Screenshot1.png)
+
+![](screenshots/Screenshot2.png)
+

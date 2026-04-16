@@ -15,7 +15,7 @@ import java.time.Instant;
 
 @RestController
 @RequestMapping("/api/earthquakes")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = {"*", "http://localhost:5173"})
 public class EarthquakeController {
 
     private final EarthquakeService earthquakeService;
